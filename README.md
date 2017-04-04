@@ -19,6 +19,6 @@ Website under construction landing page
 
 ## Authors
 
-* **CAarl Kelly** - *Initial work* - [Onfire Media](https://github.com/carlkellywebdev1981)
+* **Carl Kelly** - *Initial work* - [Onfire Media](https://onfiremedia.co.uk)
 
 
