@@ -8,6 +8,7 @@ Paint A Pot
 
 Website under construction landing page
 
+Link to website - [Paint A Pot](http://www.paint-a-pot.com)
 
 ### Includes
 
@@ -17,8 +18,8 @@ Website under construction landing page
 * contact area
 * Facebook connect
 
-## Authors
+## Author
 
-* **Carl Kelly** - *Initial work* - [Onfire Media](http://www.onfiremedia.co.uk)
+* **Carl Kelly** - [Onfire Media](http://www.onfiremedia.co.uk)
 
 
